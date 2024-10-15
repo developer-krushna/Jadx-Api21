@@ -8,4 +8,4 @@ but available for android platform from api21
 
 • Removed stream APIs
 
-• Many more you cam check
+• Many more you can check
