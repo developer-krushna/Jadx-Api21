@@ -16,7 +16,7 @@ but available for android platform from api21
 - Many more you can check
 
 ## Download sample app
-  [Dex Editor +](https://t.me/MaharnaTech/83)
+- [Dex Editor +](https://t.me/MaharnaTech/83)
   
 ## This project already used in My Project Modder Hub
 - [Download Modder Hub](https://modder-hub.blogspot.com)
