@@ -9,10 +9,8 @@ but available for android platform from api21
 
 
 ## What's new
-• Added custom Consumer classes
-
-• Java8 lambda expressions are now replaced with Traditional method
-
-• Removed stream APIs
-
-• Many more you can check
+- Added custom Consumer classes
+- Java8 lambda expressions are now replaced with Traditional method
+- java.nio.files classes are replaced with java.io.File
+- Removed stream APIs
+- Many more you can check
