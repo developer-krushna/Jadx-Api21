@@ -14,3 +14,10 @@ but available for android platform from api21
 - java.nio.files classes are replaced with java.io.File
 - Removed stream APIs
 - Many more you can check
+
+## Download sample app
+  [Dex Editor +](https://t.me/MaharnaTech/83)
+  
+## This project already used in My Project Modder Hub
+- [Download Modder Hub](https://modder-hub.blogspot.com)
+
