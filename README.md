@@ -1,4 +1,4 @@
-# Jadx-Api21
+# jadx-android-api21
 Dex to Java decompiler,  based on https://github.com/skylot/jadx
 but available for android platform from api21 
 ## What's new
